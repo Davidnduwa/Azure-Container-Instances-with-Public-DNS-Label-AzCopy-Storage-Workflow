@@ -91,4 +91,4 @@ While ACI is excellent for quick tasks, production deployments often use other s
 
 -----
 
-Would you like to extend this lab by configuring a **Mount Volume** to attach the file we uploaded in Storage (via AzCopy) to the running ACI container?
+
